@@ -7,7 +7,5 @@ first-repo
     it is a beautiful day
 <div/>
 <body>
-    <form method="get" action="www.google.com">
-    <button type="submit" class="blink">Continue</button>
-    </form>
+    <button onclick="window.location.href='http://www.google.com/'" class="blink">Continue</button>
 <body/>
