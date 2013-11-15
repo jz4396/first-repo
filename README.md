@@ -1,11 +1,13 @@
 first-repo
 ==========
 <title>
-    hello world
+hello world
 <title/>
 <div>
-    it is a beautiful day
+it is a beautiful day
 <div/>
 <body>
-    <button onclick="window.location.href='http://www.google.com/'" class="blink">Continue</button>
+<script>
+<button onclick="window.location.href='http://www.google.com/'" class="blink">Continue</button>
+<script/>
 <body/>
