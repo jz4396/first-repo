@@ -7,7 +7,7 @@ hello world
 it is a beautiful day
 <div/>
 <body>
-<script>
-<button onclick="window.location.href='http://www.google.com/'" class="blink">Continue</button>
-<script/>
+<form action="http://google.com">
+    <input type="submit" value="Go to Google" class="blink">
+</form>
 <body/>
